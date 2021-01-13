@@ -1,0 +1,21 @@
+
+# Required packages ----
+
+library(openxlsx)
+library(tidyr)
+library(tidyverse)
+library(dplyr)
+library(magrittr)
+library(ggplot2)
+library(cowplot)
+library(stringr)
+library(devtools)
+library(treemap)
+library(readstata13)
+library(reshape2)
+library(XLConnect)
+library(data.table)
+library(plotly)
+library(RColorBrewer)
+library(plyr)
+library(scales)
